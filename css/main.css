@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+canvas {
+    background: rgb(218, 218, 218);
+}
+
+input {
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+a {
+    color: rgba(0, 0, 0, 0.7);
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
